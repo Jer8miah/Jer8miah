@@ -23,6 +23,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://static-00.iconduck.com/assets.00/python-icon-256x254-m7n72ce3.png" style="padding-right:10px;" />
 
+<br/>
+<br/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
