@@ -9,7 +9,7 @@
 
 
 - 🌱 I’m currently learning Java and C++
-- 🥅 2023 Goals: Do more open source work
+- 🥅 2024 Goals: Do more open source work
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
