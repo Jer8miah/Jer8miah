@@ -1,7 +1,7 @@
 # Hi there, I'm Jeremiah 
 
 
-## I'm currently a high shcool student 
+## I am a freshman, Computer Science major at Morehouse College
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jer8miah-1&label=Profile%20views&color=0e75b6&style=flat" alt="Jer8miah-1" /> </p>
@@ -9,7 +9,7 @@
 
 
 - 🌱 I’m currently learning Java and C++
-- 🥅 2024 Goals: Do more open source work
+- 🥅 2025 Goals: Do more open source work
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
