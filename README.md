@@ -1,7 +1,7 @@
 # Hi there, I'm Jeremiah 
 
 
-## I am a freshman, Computer Science major at Morehouse College
+## I am a sophomore, Computer Science major at Morehouse College
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jer8miah-1&label=Profile%20views&color=0e75b6&style=flat" alt="Jer8miah-1" /> </p>
